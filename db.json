@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "iPhone",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/t/_/t_m_18.png"
+    },
+    {
+      "id": 2,
+      "productName": "iPhone",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/t/_/t_m_18.png"
+    },
+    {
+      "id": 3,
+      "productName": "iPhone",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/t/_/t_m_18.png"
+    },
+    {
+      "id": 4,
+      "productName": "iPhone",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/t/_/t_m_18.png"
+    }
+  ]
+}
